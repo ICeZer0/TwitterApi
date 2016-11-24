@@ -1,0 +1,26 @@
+{
+  "name": "npm_twitter_demo",
+  "version": "1.0.0",
+  "description": "Setting up Twitter API for use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iM-Durant7/TwitterApi.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "ICe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iM-Durant7/TwitterApi/issues"
+  },
+  "homepage": "https://github.com/iM-Durant7/TwitterApi#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
